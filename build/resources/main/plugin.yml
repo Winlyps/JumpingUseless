@@ -1,0 +1,5 @@
+name: DisableJumping
+version: '1.0-SNAPSHOT'
+main: winlyps.disableJumping.DisableJumping
+api-version: '1.20'
+authors: [ Winlyps ]
